@@ -1,0 +1,29 @@
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\bin\Debug\Calculator.exe.config
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\bin\Debug\Calculator.exe
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\bin\Debug\Calculator.pdb
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.exe
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.pdb
+C:\Users\omar essam\Desktop\Calculator-App-master\BasicCalculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\omar essam\Desktop\Calculator-App-master\Calculator\obj\Debug\Calculator.pdb
+C:\Users\M\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\M\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\M\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\M\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
